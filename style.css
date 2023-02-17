@@ -38,6 +38,7 @@ a:hover {
     "header"
     "content";
     grid-template-rows: 10vh;
+    gap: 5px;
 }
 
 #nav_bar {
