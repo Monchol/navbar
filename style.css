@@ -41,6 +41,11 @@ a:hover {
     gap: 10px;
 }
 
+.nav_about {
+    display: flex;
+    gap: 20px;
+}
+
 #nav_bar {
     display: flex;
     justify-content: space-between;
