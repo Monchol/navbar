@@ -13,5 +13,5 @@ navButton.addEventListener("click", function(){
         navMobile.style.boxShadow = "-2px 0 12px #000";
         navMobile.style.transition = "250ms"
     }
-});
+}); 
 
