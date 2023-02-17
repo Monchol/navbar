@@ -37,7 +37,7 @@ a:hover {
     grid-template-areas: 
     "header"
     "content";
-    grid-template-rows: 10vh;
+    grid-template-rows: 52px;
     gap: 10px;
 }
 
